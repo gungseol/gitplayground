@@ -1,3 +1,4 @@
 # gitplayground
 
-amend 실습 파일 추가
+# 첫번째 버그
+- 모기가 날아왔다.
